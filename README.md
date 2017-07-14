@@ -1,2 +1,1 @@
-# catalyst-docs
-Documentation for the Catalyst algorithmic trading library
+All the documentation for Catalyst can be found in the [wiki](https://github.com/enigmampc/catalyst-docs/wiki)
